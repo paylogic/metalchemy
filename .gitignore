@@ -1,0 +1,11 @@
+*.egg
+*.egg-info
+*.pyc
+*.pyo
+/.tox
+/.env
+/build
+/dist
+.cache
+/.Python
+*.orig
