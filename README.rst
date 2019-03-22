@@ -1,6 +1,11 @@
 metalchemy: SQLAlchemy hierarchical key/value helper
 ====================================================
 
+Project archived
+----------------
+This project is not supported anymore.
+
+
 The ``metalchemy`` package provides helpers for your SQLAlchemy models to add dynamic properties.
 
 .. image:: https://api.travis-ci.org/paylogic/metalchemy.png
